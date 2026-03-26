@@ -13,6 +13,7 @@ To write a C function to insert a node in a linked list.
 7. End
 
 ## Program:
+
 ```
 struct Node{ 
 char data;
